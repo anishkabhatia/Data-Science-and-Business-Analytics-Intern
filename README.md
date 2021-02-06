@@ -1,4 +1,4 @@
-# Data-Science-and-Business-Analytics-Intern
+# Data Science and Business Analytics Intern
 The Sparks Foundation Internship
 
 Anishka Bhatia
